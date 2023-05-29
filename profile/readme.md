@@ -15,7 +15,7 @@ Bonk CruX is our flagship product, an AI-powered DDoS security system that offer
 
 - Utilizes AI trained on 1 trillion IP patterns and IP data
 - Detects and mitigates DDoS attacks within 3 seconds
-- Handles up to 700GB/s on L7 and L4
+- Handles up to 700GB/s / Proxy on L7 and L4
 - Rate-limits and bans malicious IPs
 - Nullifies voided IPs and routes some IPs to our edge server
 - Reads website code to detect and alert about malicious code
