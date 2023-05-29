@@ -67,7 +67,7 @@ We welcome feedback, bug reports, and contributions from the GitHub community. P
 
 Connect with us on social media and stay updated with the latest news, product releases, and security tips:
 
-- Twitter: [@VoidNixSecurity](https://twitter.com/VoidnixSecurity)
+- Twitter: [@VoidNixSecurity]([https://twitter.com/](https://twitter.com/VoidnixSecurity))
 - LinkedIn: [VoidNix](https://www.linkedin.com/company/voidnix)
 - Website: [Voidnix.com](https://voidnix.com)
 
